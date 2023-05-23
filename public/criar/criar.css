@@ -1,43 +1,43 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: aquamarine;
 }
 form{
-    color: white;
+    color: aqua;
     text-align: center;
 }
 div#formu{
-    margin-top: 1%;
-    padding-top: 15%;
-    padding-bottom: 17%;
-    border-top: 1px solid #39ff14;
-    border-bottom: 1px solid #39ff14;
+    margin-top: 5;
+    padding-top: 50;
+    padding-bottom: 55;
+    border-top: 2px solid rgb(19, 95, 116);
+    border-bottom: 2px solid rgb(19, 95, 116);
     text-align: center;
 }
 input{
-    width: 30%;
+    width: 25%;
     height: 30px;
-    border: 1px solid #39ff14;
-    color: #39ff14;
-    background-color: black;
+    border: 1px solid rgb(19, 95, 116);
+    color: rgb(19, 95, 116);
+    background-color: aquamarine;
 }
 div#botoes input{
-    width: 15%;
-    border: 1px solid #39ff14;
-    color: #39ff14;
-    background-color: black;
-    height: 30px;
+    width: 20%;
+    border: 2px solid rgb(19, 95, 116);
+    color: rgb(19, 95, 116);
+    background-color: aquamarine;
+    height: 35px;
     text-decoration: none;
 }
 div#botoes a{
-    width: 15%;
-    border: 1px solid #39ff14;
-    color: #39ff14;
-    background-color: black;
-    height: 30px;
+    width: 20%;
+    border: 2px solid rgb(19, 95, 116);
+    color: rgb(19, 95, 116);
+    background-color: aquamarine;
+    height: 35px;
     text-decoration: none;
 }
 h1{
-    color:#39ff14;
+    color: rgb(19, 95, 116);
 }
